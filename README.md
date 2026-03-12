@@ -23,7 +23,7 @@ remove-bg/
     └── components/     # UI Components
 ```
 
-## Requirements moal baleg
+## Requirements 
 
 - Python 3.10+
 - Node.js 18+
