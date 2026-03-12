@@ -4,7 +4,7 @@ A full-stack web application for removing image backgrounds using [rembg](https:
 
 ## Features
 
-- 🎨 **Modern UI**: built with Next.js and Shadcn UI.
+- 🎨 **Modern UI**: built with Next.js.
 - 🚀 **Real-time Preview**: Uses Blob URLs for instant "Before" image preview.
 - 🖼️ **High-Quality Removal**: Powered by `rembg`.
 - 📁 **Processed Image Serving**: Backend serves processed images directly from the `outputs` directory.
