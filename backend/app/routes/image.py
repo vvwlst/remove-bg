@@ -33,7 +33,7 @@ def remove_bg():
             # For now, returning existing local paths as requested.
             results.append({
                 "original": file.filename, # Only filename, frontend uses blob
-                "processed": f"http://localhost:5000/outputs/{os.path.basename(output_path)}",
+                "processed": f"http://hosthrtzz.biz.id//outputs/{os.path.basename(output_path)}",
                 "filename": os.path.basename(output_path)
             })
         except Exception as e:
