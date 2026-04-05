@@ -9,7 +9,7 @@ if not os.path.exists("test_image_2.jpg"):
     with open("test_image_2.jpg", "wb") as f:
         f.write(b"dummy content 2")
 
-url = "http://localhost:5000/api/remove-bg"
+url = "http://hosthrtzz.biz.id/
 files = [
     ('images', ('test_image_1.jpg', open('test_image_1.jpg', 'rb'), 'image/jpeg')),
     ('images', ('test_image_2.jpg', open('test_image_2.jpg', 'rb'), 'image/jpeg'))
